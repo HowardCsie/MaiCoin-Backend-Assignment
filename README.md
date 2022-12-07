@@ -46,4 +46,10 @@ The program will run on port 3000 by default and exposes the following endpoints
   "value": "20"
 }
 ```
-````
+
+## Logs
+![messageImage_1670400728908](https://user-images.githubusercontent.com/17197816/206124756-a66e87b8-0b49-4939-a75c-fd470e98bd56.jpg)
+
+
+## Reference
+https://f.v1.n0.cdn.getcloudapp.com/items/3j0k3Y0v1e1p2J0x3b3X/Materials.pdf
