@@ -39,7 +39,7 @@ The program will run on port 3000 by default and exposes the following endpoints
 - GET http://localhost:3000/blocks: This endpoint returns a list of all blocks in the blockchain.
 - POST http://localhost:3000: This endpoint is used to add a new transaction. The request body should be in the following format:
 
-````
+```
 {
   "from": "howard",
   "to": "maicoin",
